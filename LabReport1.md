@@ -95,7 +95,7 @@ Type `yes` and press enter.
 **Step 11:**
 
 Enter your password *(the new password you changed to during the earlier steps)*. You will not be able to see anything as you type; this is normal. Try your best to correctly enter your password. You should see a long message including your last log in date and time. This means that you have successfully connected remotely. *(Note: you can type `exit` or Ctrl-D to log out of the remote server in the terminal.)*
-![Image](Remote2.png) 
+![Image](Remote1.png) 
 
 ## Trying Some Commands: 
 In the terminal, try running the following commands in different ways: `cd`, `ls`, `pwd`, `mkdir`, and `cp`. 
