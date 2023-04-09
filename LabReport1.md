@@ -8,3 +8,4 @@ Step 1:
 
 Click on this [link](https://code.visualstudio.com). 
 It should send you to the Visual Studio Code webpage with an accessible download button. 
+![Image](VScode1.png) 
