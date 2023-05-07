@@ -60,7 +60,8 @@ It could be useful when you are trying to find the paragraph or line about a cer
 It almost acts as an index so that you can look through all of the line numbers if needed. 
 
 **--color : the words in quotations will be a different color compared to the rest of the text**
-!! I couldn't figure out how to show the colored text here, so I added screenshots. !! 
+
+(I couldn't figure out how to show the colored text here, so I added screenshots.)
 ```
 $ grep --color "report" technical/911report/preface.txt
             We present the narrative of this report and the recommendations that flow from it to
@@ -83,3 +84,12 @@ $ grep --color "United States" technical/911report/preface.txt
 This command-line option changes the color of the words that matched the pattern and returned the lines where the word is included. 
 This could be useful when the text is long and you want to easily identify the word in the text. 
 Since it differentiates the word with the rest of the text in a different color, it is easier to notice them. 
+![Image](grep01.png)
+![Image](grep02.png)
+
+---
+**Sources:**
+
+For: -c, -i, -n (https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
+For: --color (https://man7.org/linux/man-pages/man1/grep.1.html)
