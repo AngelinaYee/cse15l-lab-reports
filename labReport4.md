@@ -48,5 +48,5 @@ After doing so, all the tests passed, meaning we fixed the code.
 Keys pressed: `git commit -a` 
 After doing so, I had to write a description and I pressed the keys: `<i>` and typed my description. Then, I pressed `<Enter>` to leave a space. 
 Finally, I entered `:wq` to save and exit.
-![Image](CommitProcess.png)
+![Image](Commit.png)
 ![Image](CommitResult.png)
