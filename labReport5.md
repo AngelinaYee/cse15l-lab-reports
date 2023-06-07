@@ -1,6 +1,6 @@
 # Lab Report 5 # 
 
-## The student's post ## 
+## The student's post: ## 
 ### What environment are you using (computer, operating system, web browser, terminal/editor, and so on)? ###
 
 I am using the VS code application on my computer. 
@@ -28,7 +28,7 @@ and
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests 
 ![Image](Before1.png)
 
-## Response from TA ## 
+## Response from TA: ## 
 I would suggest for you to reconsider the else if statement.
 What is the function of the else if statement and check if it is redundant with the else statement. 
 Pay close attention to what it is adding into result as well. 
